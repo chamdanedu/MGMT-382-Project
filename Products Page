@@ -1,0 +1,76 @@
+# Eloheh
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Eloheh Healthcare Products</title>
+    <style>
+        body {
+            background-color: #f2f9f1;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #1a4d2e;
+        }
+        h2 {
+            color: #406343;
+        }
+        p {
+            font-size: 16px;
+        }
+        .highlight {
+            color: #4a7c59;
+            font-style: italic;
+        }
+        .important {
+            font-weight: bold;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1><u>Eloheh Healthcare Products</u></h1>
+
+    <p><span class="important">Welcome to Eloheh's Products!</span> We are proud to offer a wide variety of healthcare products designed to promote wellness and preventive care. Our mission is to help individuals lead healthier lives through accessible, reliable, and innovative healthcare solutions.</p>
+
+    <h2><i>Product Categories:</i></h2>
+
+    <ul>
+        <li><span class="highlight">Organic Supplements</span> – Vitamins, minerals, and herbal remedies</li>
+        <li><span class="highlight">Medical Devices</span> – Blood pressure monitors, thermometers, glucose meters</li>
+        <li><span class="highlight">Personal Care</span> – Natural skincare, hygiene products, and essential oils</li>
+        <li><span class="highlight">Telehealth Kits</span> – At-home diagnostic tools for remote care</li>
+    </ul>
+
+    <h2><i>Top-Selling Products:</i></h2>
+
+    <ol>
+        <li>Eloheh Immune Boost Capsules</li>
+        <li>Smart Health Band with Heart Rate Monitoring</li>
+        <li>Eco-Friendly Skin Care Bundle</li>
+        <li>Portable Digital Thermometer</li>
+    </ol>
+
+    <h2>Product Image</h2>
+    <img src="https://i5.walmartimages.com/seo/NutraChamps-Immune-Boost-Support-Supplement-Elderberry-Extract-Vitamin-C-Zinc-Echinacea-Mushrooms-Probiotics-Powerful-Multi-System-Defense-Booster-Pi_794f71de-8771-4ef0-9307-a8b48d1eb2ff.b71bcf7a859a1e3fa133630affc6d205.png?odnHeight=768&odnWidth=768&odnBg=FFFFFF" alt="Eloheh Product Display" width="400">
+
+    <h2>Downloadable Product Catalog</h2>
+    <p>
+        <a href="eloheh_product_catalog.pdf" download>📥 Download Eloheh Product Catalog (PDF)</a>
+    </p>
+
+    <h2>External Link</h2>
+    <p>Check out <a href="https://www.mayoclinic.org/" target="_blank">Mayo Clinic</a> for trusted healthcare advice and resources.</p>
+
+    <h2>Contact the Team</h2>
+    <p>
+        <a href="mailto:eloheh_products@fakeemail.com">Contact Us</a>
+    </p>
+
+    <hr>
+    <footer>
+        <p><small><i>Last Modified: <script>document.write(document.lastModified);</script></i></small></p>
+    </footer>
+
+</body>
+</html>
